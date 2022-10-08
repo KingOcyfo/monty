@@ -1,2 +1,4 @@
-0x19. C - Stacks, Queues - LIFO, FIFO About: In this project I created a simple interpreter for Monty ByteCodes. The interpreter reads a bytecode file and executes the bytecode commands.
-Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
+Monty
+monty is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
+About the Monty language
+This is a language that contains specific instructions to manipulate data information (stacks or queues), where each instruction (called opcode) is sended per line. Files which contains Monty byte codes usually have the .m extension.
